@@ -1,6 +1,5 @@
-# Product-Retail-Prices-over-Time-
+# PriceEvolutionOverTime
 
-# README for Meat and Dairy Product Pricing Dataset
 
 ## Overview
 
